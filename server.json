@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
-  "name": "io.github.dataleadspro/google-serp",
+  "name": "io.github.DataLeadsPRO/google-serp",
   "description": "Structured Google search, news, and local results at scale - organic results, news, and local packs as clean JSON.",
   "version": "1.0.0",
   "repository": {
