@@ -1,0 +1,20 @@
+[
+  {
+    "name": "google_search",
+    "method": "POST",
+    "path": "/google/search",
+    "description": "V1 Google Search"
+  },
+  {
+    "name": "google_news",
+    "method": "POST",
+    "path": "/google/news",
+    "description": "V1 Google News"
+  },
+  {
+    "name": "google_local",
+    "method": "POST",
+    "path": "/google/local",
+    "description": "V1 Google Local"
+  }
+]
